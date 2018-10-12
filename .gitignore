@@ -1,8 +1,6 @@
-data/
-results/
-*.pdf
-.bash_profile
-creatures/
-molecules/
-north-pacific-gyre/
-writing/
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+!data/feline-data.csv
