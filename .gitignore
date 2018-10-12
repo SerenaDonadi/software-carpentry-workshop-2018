@@ -1,6 +1,10 @@
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
+data/
+results/
+*.pdf
+.bash_profile
+creatures/
+molecules/
+north-pacific-gyre/
+writing/
 
 !data/feline-data.csv
