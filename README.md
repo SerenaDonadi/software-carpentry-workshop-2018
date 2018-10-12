@@ -1,6 +1,9 @@
 # uppsala-workshop
 Repository to save my files from SWC workshop
 
+try our code by clicking on:
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/SerenaDonadi/software-carpentry-workshop-2018/tree/master/master)
+
 This repository is publicly available. See LICENSE file for conditions.
 
 # How to get it
